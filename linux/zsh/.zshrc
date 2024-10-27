@@ -8,9 +8,9 @@ setopt autocd extendedglob nomatch
 bindkey -e
 # End of lines configured by zsh-newuser-install
 # The following lines were added by compinstall
-zstyle :compinstall filename '/home/sora/.zshrc'
+zstyle :compinstall filename '~/.zshrc'
 
-export PATH=/home/sora/.pixi/bin:$PATH
+export PATH="$HOME/.pixi/bin:$PATH"
 
 autoload -Uz compinit
 compinit
