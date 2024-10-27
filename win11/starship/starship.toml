@@ -1,0 +1,87 @@
+# Get editor completions based on the config schema
+"$schema" = 'https://starship.rs/config-schema.json'
+
+add_newline = false
+scan_timeout = 500
+command_timeout = 5000
+format = """
+$os $username\
+[](cyan)$directory[](cyan) \
+$git_branch$git_status\
+$c$rust$golang$nodejs$java$kotlin$python\
+$docker_context$conda\
+$cmd_duration$time\
+$line_break$env_var$character"""
+
+
+# Replace the '❯' symbol in the prompt with '➜'
+[character] # The name of the module we are configuring is 'character'
+success_symbol = '[➜](bold green)' # The 'success_symbol' segment is being set to '➜' with the color 'bold green'
+error_symbol = "[➜](red)"
+vimcmd_symbol = '[V](bold green)'
+
+[conda]
+disabled = false
+ignore_base = false
+symbol = "🅒 "
+format = '[$symbol$environment](green) '
+
+[env_var.VIRTUAL_ENV]
+format = 'venv:[$env_value]($style) '
+style = 'yellow bold'
+ 
+[time]
+disabled = false
+format = '⏱ [$time]($style) '
+
+[os]
+disabled = false
+ 
+[directory]
+format = "[ $path]($style)[$read_only]($read_only_style)"
+style = "bg:6 bold"
+read_only_style = "bg:6 bold"
+truncation_symbol = '…/'
+read_only = " 󰌾 "
+truncation_length = 3
+truncate_to_repo = true
+
+ 
+[cmd_duration]
+min_time = 100
+format = 'took [$duration](bold yellow) '
+ 
+[c]
+symbol = " "
+ 
+[docker_context]
+symbol = " "
+
+[git_branch]
+symbol = " "
+format = "[on $symbol$branch(:$remote_branch)]($style) "
+style = "bold yellow"
+ 
+[hg_branch]
+symbol = " "
+ 
+[hostname]
+ssh_only = true
+ssh_symbol = " "
+ 
+[java]
+symbol = " "
+ 
+[nodejs]
+disabled = true
+symbol = " "
+ 
+[package]
+symbol = "󰏗 "
+ 
+[python]
+symbol = " "
+style = "blue bold"
+format = '[${symbol}${pyenv_prefix}(${version} )(\($virtualenv\) )]($style)'
+python_binary = 'python'
+version_format = 'v${raw}'

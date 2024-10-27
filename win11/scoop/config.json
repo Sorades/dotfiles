@@ -1,0 +1,14 @@
+{
+  "last_update": "2024-10-27T14:02:36.4127574+08:00",
+  "aria2-max-connection-per-server": "16",
+  "aria2-split": "16",
+  "aria2-enabled": true,
+  "aria2-warning-enabled": false,
+  "alias": {
+    "upgrade": "scoop-upgrade",
+    "backup": "scoop-backup",
+    "check": "scoop-check"
+  },
+  "scoop_branch": "master",
+  "scoop_repo": "https://github.com/ScoopInstaller/Scoop"
+}

@@ -1,0 +1,514 @@
+{
+    "apps": [
+        {
+            "Source": "main",
+            "Updated": "2024-08-13T15:26:14.3778092+08:00",
+            "Name": "7zip",
+            "Version": "24.08",
+            "Info": ""
+        },
+        {
+            "Source": "main",
+            "Updated": "2024-08-28T15:15:41.377621+08:00",
+            "Name": "adb",
+            "Version": "35.0.0",
+            "Info": ""
+        },
+        {
+            "Source": "personal",
+            "Updated": "2024-07-24T13:56:44.6208491+08:00",
+            "Name": "adrive",
+            "Version": "4.13.1",
+            "Info": ""
+        },
+        {
+            "Source": "extras",
+            "Updated": "2024-08-27T10:01:53.283389+08:00",
+            "Name": "aria-ng-gui",
+            "Version": "3.1.2",
+            "Info": ""
+        },
+        {
+            "Source": "main",
+            "Updated": "2024-02-27T13:39:19.7140685+08:00",
+            "Name": "aria2",
+            "Version": "1.37.0-1",
+            "Info": ""
+        },
+        {
+            "Source": "personal",
+            "Updated": "2024-08-14T17:08:05.2385849+08:00",
+            "Name": "bandicam",
+            "Version": "5.1.0.1822",
+            "Info": ""
+        },
+        {
+            "Source": "personal",
+            "Updated": "2024-08-26T15:00:55.7423767+08:00",
+            "Name": "bandizip",
+            "Version": "7.32",
+            "Info": ""
+        },
+        {
+            "Source": "main",
+            "Updated": "2024-09-10T10:56:59.7446657+08:00",
+            "Name": "chafa",
+            "Version": "1.14.4",
+            "Info": ""
+        },
+        {
+            "Source": "extras",
+            "Updated": "2024-07-10T16:05:27.6236324+08:00",
+            "Name": "chatall",
+            "Version": "1.82.107",
+            "Info": ""
+        },
+        {
+            "Source": "personal",
+            "Updated": "2024-09-26T10:47:21.1007895+08:00",
+            "Name": "chatgpt-next-web",
+            "Version": "2.15.3",
+            "Info": ""
+        },
+        {
+            "Source": "personal",
+            "Updated": "2024-08-26T12:30:04.2262035+08:00",
+            "Name": "clash-verge-rev",
+            "Version": "1.7.7",
+            "Info": ""
+        },
+        {
+            "Source": "personal",
+            "Updated": "2024-08-14T17:54:02.6094527+08:00",
+            "Name": "context-menu-manager",
+            "Version": "3.3.3.1",
+            "Info": ""
+        },
+        {
+            "Source": "main",
+            "Updated": "2024-02-28T19:17:10.0029942+08:00",
+            "Name": "dark",
+            "Version": "3.14",
+            "Info": ""
+        },
+        {
+            "Source": "extras",
+            "Updated": "2024-08-02T13:35:26.2797898+08:00",
+            "Name": "everything",
+            "Version": "1.4.1.1026",
+            "Info": ""
+        },
+        {
+            "Source": "main",
+            "Updated": "2024-09-19T15:32:36.5160376+08:00",
+            "Name": "fastfetch",
+            "Version": "2.25.0",
+            "Info": ""
+        },
+        {
+            "Source": "extras",
+            "Updated": "2024-02-29T14:09:05.9550875+08:00",
+            "Name": "fluent-reader",
+            "Version": "1.1.4",
+            "Info": ""
+        },
+        {
+            "Source": "main",
+            "Updated": "2024-03-22T11:53:03.4791345+08:00",
+            "Name": "frp",
+            "Version": "0.55.1",
+            "Info": "Held package"
+        },
+        {
+            "Source": "extras",
+            "Updated": "2024-02-27T20:30:50.9948042+08:00",
+            "Name": "geekuninstaller",
+            "Version": "1.5.2.165",
+            "Info": ""
+        },
+        {
+            "Source": "main",
+            "Updated": "2024-09-18T09:26:27.2896974+08:00",
+            "Name": "gh",
+            "Version": "2.57.0",
+            "Info": ""
+        },
+        {
+            "Source": "main",
+            "Updated": "2024-08-23T14:20:53.0990038+08:00",
+            "Name": "gow",
+            "Version": "0.8.0",
+            "Info": ""
+        },
+        {
+            "Source": "main",
+            "Updated": "2024-02-29T09:41:51.944012+08:00",
+            "Name": "innounp",
+            "Version": "0.50",
+            "Info": ""
+        },
+        {
+            "Source": "extras",
+            "Updated": "2024-06-03T10:20:03.5495984+08:00",
+            "Name": "keepass",
+            "Version": "2.57",
+            "Info": ""
+        },
+        {
+            "Source": "extras",
+            "Updated": "2024-09-25T09:46:12.0510042+08:00",
+            "Name": "localsend",
+            "Version": "1.15.4",
+            "Info": ""
+        },
+        {
+            "Source": "personal",
+            "Updated": "2024-09-18T09:26:58.1608493+08:00",
+            "Name": "maa-arknights",
+            "Version": "5.6.2",
+            "Info": ""
+        },
+        {
+            "Source": "personal",
+            "Updated": "2024-09-18T09:31:23.7403798+08:00",
+            "Name": "mumuplayer-cn-np",
+            "Version": "4.0.8.3350",
+            "Info": ""
+        },
+        {
+            "Source": "personal",
+            "Updated": "2024-07-24T13:47:52.6837684+08:00",
+            "Name": "mycomputermanager",
+            "Version": "1.03",
+            "Info": ""
+        },
+        {
+            "Source": "extras",
+            "Updated": "2024-02-27T20:09:11.4587471+08:00",
+            "Name": "nekoray",
+            "Version": "3.26",
+            "Info": ""
+        },
+        {
+            "Source": "main",
+            "Updated": "2024-03-11T11:06:46.5049338+08:00",
+            "Name": "neofetch",
+            "Version": "7.1.0",
+            "Info": ""
+        },
+        {
+            "Source": "main",
+            "Updated": "2024-07-25T11:39:39.8234006+08:00",
+            "Name": "neovim",
+            "Version": "0.10.1",
+            "Info": ""
+        },
+        {
+            "Source": "extras",
+            "Updated": "2024-08-16T14:17:16.7939698+08:00",
+            "Name": "obs-studio",
+            "Version": "30.2.3",
+            "Info": ""
+        },
+        {
+            "Source": "extras",
+            "Updated": "2024-07-24T13:52:49.6250516+08:00",
+            "Name": "obsidian",
+            "Version": "1.6.7",
+            "Info": ""
+        },
+        {
+            "Source": "extras",
+            "Updated": "2024-06-03T10:05:34.1022386+08:00",
+            "Name": "OpenArk",
+            "Version": "1.3.6",
+            "Info": ""
+        },
+        {
+            "Source": "personal",
+            "Updated": "2024-08-26T12:38:25.7133301+08:00",
+            "Name": "paperlib",
+            "Version": "3.1.9",
+            "Info": ""
+        },
+        {
+            "Source": "personal",
+            "Updated": "2024-07-24T13:57:36.2146532+08:00",
+            "Name": "pot-desktop",
+            "Version": "3.0.5",
+            "Info": ""
+        },
+        {
+            "Source": "personal",
+            "Updated": "2024-08-14T16:45:07.4342242+08:00",
+            "Name": "potplayer",
+            "Version": "1.7.22058",
+            "Info": ""
+        },
+        {
+            "Source": "extras",
+            "Updated": "2024-09-10T11:11:30.0631005+08:00",
+            "Name": "powertoys",
+            "Version": "0.84.1",
+            "Info": ""
+        },
+        {
+            "Source": "extras",
+            "Updated": "2024-07-02T10:11:57.841755+08:00",
+            "Name": "qalculate",
+            "Version": "5.2.0",
+            "Info": ""
+        },
+        {
+            "Source": "personal",
+            "Updated": "2024-09-26T10:47:30.2913398+08:00",
+            "Name": "qq-nt",
+            "Version": "9.9.15_240925_01",
+            "Info": ""
+        },
+        {
+            "Source": "personal",
+            "Updated": "2024-08-14T17:33:15.9590609+08:00",
+            "Name": "quark-cloud-drive",
+            "Version": "2.5.10",
+            "Info": ""
+        },
+        {
+            "Source": "extras",
+            "Updated": "2024-07-31T15:03:15.7798068+08:00",
+            "Name": "quicklook",
+            "Version": "3.7.3",
+            "Info": ""
+        },
+        {
+            "Source": "main",
+            "Updated": "2024-09-26T10:47:44.9475467+08:00",
+            "Name": "rclone",
+            "Version": "1.68.1",
+            "Info": ""
+        },
+        {
+            "Source": "extras",
+            "Updated": "2024-03-06T17:12:57.2664441+08:00",
+            "Name": "robocopy-gui",
+            "Version": "3.1.2.0",
+            "Info": ""
+        },
+        {
+            "Source": "extras",
+            "Updated": "2024-04-29T12:39:46.3307038+08:00",
+            "Name": "scooper",
+            "Version": "0.9.1",
+            "Info": ""
+        },
+        {
+            "Source": "personal",
+            "Updated": "2024-09-22T14:45:29.2911409+08:00",
+            "Name": "shion",
+            "Version": "0.12.4",
+            "Info": ""
+        },
+        {
+            "Source": "personal",
+            "Updated": "2024-07-24T13:43:57.9181919+08:00",
+            "Name": "snipaste-beta",
+            "Version": "2.9.2-Beta",
+            "Info": ""
+        },
+        {
+            "Source": "extras",
+            "Updated": "2024-02-27T20:31:41.2137372+08:00",
+            "Name": "spacesniffer",
+            "Version": "1.3.0.2",
+            "Info": ""
+        },
+        {
+            "Source": "personal",
+            "Updated": "2024-08-16T14:12:55.3664526+08:00",
+            "Name": "stable-diffusion-webui",
+            "Version": "1.10.0",
+            "Info": ""
+        },
+        {
+            "Source": "personal",
+            "Updated": "2024-08-23T15:29:23.6976534+08:00",
+            "Name": "starship",
+            "Version": "1.20.1",
+            "Info": ""
+        },
+        {
+            "Source": "extras",
+            "Updated": "2024-09-18T09:31:54.4289099+08:00",
+            "Name": "stirling-pdf",
+            "Version": "0.29.0",
+            "Info": ""
+        },
+        {
+            "Source": "main",
+            "Updated": "2024-02-27T13:40:43.6134779+08:00",
+            "Name": "sudo",
+            "Version": "0.2020.01.26",
+            "Info": ""
+        },
+        {
+            "Source": "personal",
+            "Updated": "2024-09-14T10:57:35.2798054+08:00",
+            "Name": "telegram",
+            "Version": "5.5.5",
+            "Info": ""
+        },
+        {
+            "Source": "personal",
+            "Updated": "2024-09-19T19:42:15.1572455+08:00",
+            "Name": "tencent-meeting",
+            "Version": "3.29.3.498",
+            "Info": ""
+        },
+        {
+            "Source": "extras",
+            "Updated": "2024-09-18T09:32:19.7938428+08:00",
+            "Name": "termius",
+            "Version": "9.6.1",
+            "Info": ""
+        },
+        {
+            "Source": "extras",
+            "Updated": "2024-03-06T17:44:54.7650886+08:00",
+            "Name": "trafficmonitor",
+            "Version": "1.84.1",
+            "Info": ""
+        },
+        {
+            "Source": "extras",
+            "Updated": "2024-07-02T10:12:43.1603729+08:00",
+            "Name": "typora",
+            "Version": "1.9.5",
+            "Info": ""
+        },
+        {
+            "Source": "personal",
+            "Updated": "2024-09-01T12:14:48.5285422+08:00",
+            "Name": "umi-ocr",
+            "Version": "2.1.4",
+            "Info": ""
+        },
+        {
+            "Source": "extras",
+            "Updated": "2024-09-13T11:08:45.4919669+08:00",
+            "Name": "vscode",
+            "Version": "1.93.1",
+            "Info": ""
+        },
+        {
+            "Source": "extras",
+            "Updated": "2024-09-18T20:20:07.9301933+08:00",
+            "Name": "wechat",
+            "Version": "3.9.12.15",
+            "Info": ""
+        },
+        {
+            "Source": "main",
+            "Updated": "2024-07-16T15:48:32.9542003+08:00",
+            "Name": "winget",
+            "Version": "1.8.1911",
+            "Info": ""
+        },
+        {
+            "Source": "extras",
+            "Updated": "2024-09-18T09:32:26.7904256+08:00",
+            "Name": "zoom",
+            "Version": "6.2.0.46690",
+            "Info": ""
+        },
+        {
+            "Source": "personal",
+            "Updated": "2024-09-12T12:47:58.8867303+08:00",
+            "Name": "zotero",
+            "Version": "7.0.5",
+            "Info": ""
+        },
+        {
+            "Source": "personal",
+            "Updated": "2024-07-24T14:02:33.303835+08:00",
+            "Name": "DejaVuSansMono-NF-Mono",
+            "Version": "3.2.1",
+            "Info": "Global install"
+        },
+        {
+            "Source": "main",
+            "Updated": "2024-07-31T10:03:31.2631248+08:00",
+            "Name": "git",
+            "Version": "2.46.0",
+            "Info": "Global install"
+        },
+        {
+            "Source": "personal",
+            "Updated": "2024-07-24T14:03:06.009363+08:00",
+            "Name": "JetBrainsMono-NF-Mono",
+            "Version": "3.2.1",
+            "Info": "Global install"
+        },
+        {
+            "Source": "personal",
+            "Updated": "2024-07-24T14:03:19.5342803+08:00",
+            "Name": "Meslo-NF-Mono",
+            "Version": "3.2.1",
+            "Info": "Global install"
+        },
+        {
+            "Source": "main",
+            "Updated": "2024-09-04T17:20:21.5627054+08:00",
+            "Name": "nodejs",
+            "Version": "22.8.0",
+            "Info": "Global install"
+        },
+        {
+            "Source": "main",
+            "Updated": "2024-04-11T12:15:45.7978208+08:00",
+            "Name": "nvm",
+            "Version": "1.1.12",
+            "Info": "Global install"
+        },
+        {
+            "Source": "personal",
+            "Updated": "2024-07-24T13:42:22.6533335+08:00",
+            "Name": "openjdk",
+            "Version": "21.0.2-13",
+            "Info": "Global install"
+        },
+        {
+            "Source": "main",
+            "Updated": "2024-08-22T10:58:16.8961958+08:00",
+            "Name": "pwsh",
+            "Version": "7.4.5",
+            "Info": "Global install"
+        },
+        {
+            "Source": "personal",
+            "Updated": "2024-09-04T17:20:32.3808787+08:00",
+            "Name": "windows-terminal-preview",
+            "Version": "1.22.2362.0",
+            "Info": "Global install"
+        }
+    ],
+    "buckets": [
+        {
+            "Name": "main",
+            "Source": "https://github.com/ScoopInstaller/Main.git",
+            "Updated": "2024-09-26T08:34:07+08:00",
+            "Manifests": 1342
+        },
+        {
+            "Name": "extras",
+            "Source": "https://github.com/ScoopInstaller/Extras",
+            "Updated": "2024-09-26T09:33:14+08:00",
+            "Manifests": 2073
+        },
+        {
+            "Name": "personal",
+            "Source": "https://github.com/Sorades/AppBucket.git",
+            "Updated": "2024-09-26T10:47:27+08:00",
+            "Manifests": 33
+        }
+    ]
+}
